@@ -1,0 +1,17 @@
+﻿  solarsystem.cpp
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\马春阳\documents\c++\solar\solar\stars.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(118): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(120): warning C4305: “=”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(121): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(123): warning C4305: “=”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(124): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(127): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(130): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(133): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(136): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(139): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(141): warning C4305: “=”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(142): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\马春阳\documents\c++\solar\solar\solarsystem.cpp(145): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  solar.vcxproj -> C:\Users\马春阳\Documents\C++\solar\Debug\solar.exe
